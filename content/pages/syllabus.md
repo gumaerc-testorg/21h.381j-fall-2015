@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 24dddbf3-745a-1836-4b3a-5b6c4161d01a
 ---
@@ -17,7 +19,7 @@ The subject has no prerequisite and does not assume any relevant prior knowledge
 Course Description
 ------------------
 
-This seminar examines women's experiences during and after war, revolution, and genocide. The focus of the course is mostly on the 20th century and on North America, Europe and the Middle East. It is organized thematically; we focus on a different topic each week that might pertain to a different geographical area or time period but is related to women and war, understood broadly.
+This seminar examines women's experiences during and after war, revolution, and genocide. The focus of the course is mostly on the 20{{< sup "th" >}} century and on North America, Europe and the Middle East. It is organized thematically; we focus on a different topic each week that might pertain to a different geographical area or time period but is related to women and war, understood broadly.
 
 Format
 ------
