@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information on meeting
+  times, format, requirements, and grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 24dddbf3-745a-1836-4b3a-5b6c4161d01a
 ---
@@ -17,7 +21,7 @@ The subject has no prerequisite and does not assume any relevant prior knowledge
 Course Description
 ------------------
 
-This seminar examines women's experiences during and after war, revolution, and genocide. The focus of the course is mostly on the 20th century and on North America, Europe and the Middle East. It is organized thematically; we focus on a different topic each week that might pertain to a different geographical area or time period but is related to women and war, understood broadly.
+This seminar examines women's experiences during and after war, revolution, and genocide. The focus of the course is mostly on the 20{{< sup "th" >}} century and on North America, Europe and the Middle East. It is organized thematically; we focus on a different topic each week that might pertain to a different geographical area or time period but is related to women and war, understood broadly.
 
 Format
 ------
@@ -31,7 +35,7 @@ The following book is required:
 
 Amiry, Suad. _Sharon and My Mother-in-Law: Ramallah Diaries_. Anchor, 2006. ISBN: 9781400096497.
 
-For detailed information, see the [Readings and Films]({{< baseurl >}}/pages/readings-and-films) section.
+For detailed information, see the {{% resource_link 2b3a252c-bb24-b553-f042-826c513d9144 "Readings and Films" %}} section.
 
 Policy on Plagiarism
 --------------------
@@ -47,7 +51,7 @@ Students are also responsible for posting one discussion question based on the g
 
 There is no final exam but students are required to submit a final research paper on a topic of your choice that pertains to women / gender and war.
 
-For more information on the discussion questions and the final research paper, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the discussion questions and the final research paper, see the {{% resource_link 0f1801c3-4e23-f395-09cc-454da56cff0f "Assignments" %}} section.
 
 Grading Policy
 --------------
