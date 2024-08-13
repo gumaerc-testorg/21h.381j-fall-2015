@@ -34,7 +34,7 @@ Introduction
 
 *Screening*
 
-[*From the Ground Up*](https://www.fandor.com/films/from_the_ground_up_2011). Directed by Beth Gage and George Gage. Color, 30 min. 2011.
+[*From the Ground Up*](https://www.imdb.com/title/tt1931434/?ref_=fn_al_tt_20). Directed by Beth Gage and George Gage. Color, 30 min. 2011.
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
