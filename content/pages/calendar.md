@@ -22,7 +22,7 @@ Introduction
 
 *Screening*
 
-[*Women, War, & Peace, Episode 5: War Redefined*](http://www.pbs.org/video/2165993549/). Directed by Gini Reticker. Color, 52 min. 2011.
+{{% resource_link "d32f09f5-3967-4b14-a66a-4bcd0e5516a5" "*Women, War, & Peace, Episode 5: War Redefined*" %}}. Directed by Gini Reticker. Color, 52 min. 2011.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -34,7 +34,7 @@ Introduction
 
 *Screening*
 
-[*From the Ground Up*](https://www.imdb.com/title/tt1931434/?ref_=fn_al_tt_20). Directed by Beth Gage and George Gage. Color, 30 min. 2011.
+{{% resource_link "b4b1cea3-7c27-4d89-a1fd-9f713891e240" "*From the Ground Up*" %}}. Directed by Beth Gage and George Gage. Color, 30 min. 2011.
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
@@ -46,7 +46,7 @@ Perpetrators
 
 *Screening*
 
-[*Philip Zimbardo: The Psychology of Evil*](http://www.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil?language=en). Color, 23 min. 2008.
+{{% resource_link "80d8ccbe-9208-4b2b-a1d5-eb1e6a13db9d" "*Philip Zimbardo: The Psychology of Evil*" %}}. Color, 23 min. 2008.
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
@@ -58,7 +58,7 @@ Soldiers
 
 *Screening*
 
-[*The Invisible War*](http://www.pbs.org/independentlens/films/invisible-war/). Directed by Kirby Dick. Color, 93 min. 2012.
+{{% resource_link "56e0c076-40b0-4242-93d5-29b7f2268951" "*The Invisible War*" %}}. Directed by Kirby Dick. Color, 93 min. 2012.
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
@@ -74,9 +74,9 @@ Discussion questions due
 
 Peace Activism
 
-*Visiting artist:* [*Peggy Seeger*](http://www.peggyseeger.com/)
+*Visiting artist:* {{% resource_link "279407ac-b2e3-447d-980f-fe8c5fce4aca" "*Peggy Seeger*" %}}
 
-*Visiting discussant:* [*Caley Horan*](https://history.mit.edu/people/caley-horan/)*, Assistant Professor of History, MIT*
+*Visiting discussant:* {{% resource_link "c8aa5a52-3a67-406f-a09b-5a231a1843b5" "*Caley Horan*" %}}*, Assistant Professor of History, MIT*
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
@@ -92,7 +92,7 @@ Discussion questions due
 
 War as Daily Life
 
-*Guest lecturer:* [*Abigail Jacobson*](http://www.bu.edu/jewishstudies/people/faculty/fac/jacobson/)*, Visiting Professor, Boston University*
+*Guest lecturer:* {{% resource_link "f1efb265-9d99-4843-bafb-c6f02ae878a6" "*Abigail Jacobson*" %}}*, Visiting Professor, Boston University*
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
@@ -114,7 +114,7 @@ Representations
 
 *Screening*
 
-1915GenocidalTurks. "[RAVISHED ARMENIA, the original 1919 movie also known as \[Auction of Souls\]](https://www.youtube.com/watch?v=uTnCaW-Uo_s)." August 8, 2012. YouTube.
+1915GenocidalTurks. "{{% resource_link "994be5af-9340-477e-9f12-471772c47be1" "RAVISHED ARMENIA, the original 1919 movie also known as \[Auction of Souls\]" %}}." August 8, 2012. YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Discussion questions due
